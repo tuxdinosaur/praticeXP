@@ -1,0 +1,12 @@
+.callout{
+  border-radius: 5px;
+  background-color: gray;
+  padding: 24px;
+  color: #FFF;
+  text-align: center;
+}
+
+#hero{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

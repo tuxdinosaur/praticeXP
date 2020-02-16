@@ -1,0 +1,24 @@
+{
+  "name": "practiceXP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "standard": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuxdinosaur/praticeXP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuxdinosaur/praticeXP/issues"
+  },
+  "homepage": "https://github.com/tuxdinosaur/praticeXP#readme",
+  "devDependencies": {
+    "husky": "^4.2.3",
+    "standard": "^14.3.1"
+  }
+}
